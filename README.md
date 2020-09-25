@@ -33,4 +33,4 @@ The dataset selected was the [Ford GoBike System Data](https://www.fordgobike.co
 - There seems to be a relationship between day of the week and usage as well as the trend of the usage through the week in relationship to user type. Additionally certain user groups ebb and flow differently depending on if its a weekend vs week day.
 - Yes, it appears that the casual customer is the more stable user and has less variability in usage then the member/subscriber user which I would not expect. In fact, I would assume the opposite. The subscriber user is also making up the bulk of the trips through out the week with those mostly being smaller, shorter trips.
 
-Please see the [notebook](https://github.com/Chilliwack/ford_gobike_system_data_exploration) for further details: https://github.com/Chilliwack/ford_gobike_system_data_exploration.ipynb
+Please see the [notebook](https://github.com/Chilliwack/ford_gobike_system_data_exploration/blob/master/Ford%20GoBike%20System%20Data%20Exploration.ipynb) for further details: https://github.com/Chilliwack/ford_gobike_system_data_exploration/blob/master/Ford%20GoBike%20System%20Data%20Exploration.ipynb
