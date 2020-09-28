@@ -1,6 +1,6 @@
 # ford_gobike_system_data_exploration
 
-**ford_gobike_system_data_exploration** is an effort to wrangle and explore the [Ford GoBike System Data](https://www.fordgobike.com/system-data). This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
+**ford_gobike_system_data_exploration** is an effort to wrangle and explore the [Ford GoBike System Data](https://www.fordgobike.com/system-data) daily use data. This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
 The dataset selected was the [Ford GoBike System Data](https://www.fordgobike.com/system-data). The data is from Bay Wheels's trip data and is for public use and is provided according to the Bay Wheels License Agreement. The data is contained within a csv file titled `2017-fordgobike-tripdata.csv` and was downloaded in a zip with the same name. The data consists of rows that represent a bike trip. Each trip is anonymized and includes:
 
